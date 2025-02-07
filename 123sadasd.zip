@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="OSMTracker for Android™ - https://github.com/labexp/osmtracker-android" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd ">
+	<metadata>
+		<name>2025-02-06_22-46-09</name>
+	</metadata>
+	<wpt lat="37.421998333333335" lon="-122.08400000000002">
+		<time>2025-02-07T16:46:12Z</time>
+		<name><![CDATA[Bus stop]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="37.421998333333335" lon="-122.08400000000002">
+		<time>2025-02-07T16:46:13Z</time>
+		<name><![CDATA[ATM]]></name>
+		<sat>0</sat>
+	</wpt>
+	<wpt lat="37.421998333333335" lon="-122.08400000000002">
+		<time>2025-02-07T16:46:14Z</time>
+		<name><![CDATA[Telephone]]></name>
+		<sat>0</sat>
+	</wpt>
+	<trk>
+		<name><![CDATA[Tracked with OSMTracker for Android™]]></name>
+		<trkseg>
+			<trkpt lat="37.421998333333335" lon="-122.08400000000002">
+				<time>2025-02-07T16:46:10Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="37.421998333333335" lon="-122.08400000000002">
+				<time>2025-02-07T16:46:11Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="37.421998333333335" lon="-122.08400000000002">
+				<ele>5.0</ele>
+				<time>2025-02-07T16:46:12Z</time>
+			</trkpt>
+			<trkpt lat="37.421998333333335" lon="-122.08400000000002">
+				<time>2025-02-07T16:46:12Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="37.421998333333335" lon="-122.08400000000002">
+				<time>2025-02-07T16:46:12Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="37.421998333333335" lon="-122.08400000000002">
+				<time>2025-02-07T16:46:13Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="37.421998333333335" lon="-122.08400000000002">
+				<time>2025-02-07T16:46:13Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="37.421998333333335" lon="-122.08400000000002">
+				<time>2025-02-07T16:46:13Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="37.421998333333335" lon="-122.08400000000002">
+				<ele>5.0</ele>
+				<time>2025-02-07T16:46:14Z</time>
+			</trkpt>
+			<trkpt lat="37.421998333333335" lon="-122.08400000000002">
+				<time>2025-02-07T16:46:14Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="37.421998333333335" lon="-122.08400000000002">
+				<time>2025-02-07T16:46:14Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="37.421998333333335" lon="-122.08400000000002">
+				<ele>5.0</ele>
+				<time>2025-02-07T16:46:15Z</time>
+			</trkpt>
+			<trkpt lat="37.421998333333335" lon="-122.08400000000002">
+				<time>2025-02-07T16:46:15Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="37.421998333333335" lon="-122.08400000000002">
+				<time>2025-02-07T16:46:16Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="37.421998333333335" lon="-122.08400000000002">
+				<ele>5.0</ele>
+				<time>2025-02-07T16:46:17Z</time>
+			</trkpt>
+			<trkpt lat="37.421998333333335" lon="-122.08400000000002">
+				<time>2025-02-07T16:46:17Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="37.421998333333335" lon="-122.08400000000002">
+				<time>2025-02-07T16:46:18Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="37.421998333333335" lon="-122.08400000000002">
+				<time>2025-02-07T16:46:19Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="37.421998333333335" lon="-122.08400000000002">
+				<time>2025-02-07T16:46:20Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="37.421998333333335" lon="-122.08400000000002">
+				<time>2025-02-07T16:46:21Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="37.421998333333335" lon="-122.08400000000002">
+				<time>2025-02-07T16:46:21Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="37.421998333333335" lon="-122.08400000000002">
+				<time>2025-02-07T16:46:22Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="37.421998333333335" lon="-122.08400000000002">
+				<time>2025-02-07T16:46:22Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
