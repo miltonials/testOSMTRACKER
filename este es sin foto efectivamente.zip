@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="OSMTracker for Android™ - https://github.com/labexp/osmtracker-android" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd ">
+	<metadata>
+		<name>sinFoto</name>
+		<keywords>osmtracker</keywords>
+	</metadata>
+	<wpt lat="9.987603072077036" lon="-83.13248938880861">
+		<ele>60.0</ele>
+		<time>2025-02-07T01:47:27Z</time>
+		<name><![CDATA[Parque temático (18.0m)]]></name>
+		<sat>15</sat>
+	</wpt>
+	<wpt lat="9.987603072077036" lon="-83.13248938880861">
+		<ele>60.0</ele>
+		<time>2025-02-07T01:47:27Z</time>
+		<name><![CDATA[Atracción (18.0m)]]></name>
+		<sat>15</sat>
+	</wpt>
+	<wpt lat="9.987597246654332" lon="-83.13249483704567">
+		<ele>62.0</ele>
+		<time>2025-02-07T01:47:28Z</time>
+		<name><![CDATA[Mirador (16.0m)]]></name>
+		<sat>15</sat>
+	</wpt>
+	<wpt lat="9.987622643820941" lon="-83.13247019425035">
+		<ele>60.0</ele>
+		<time>2025-02-07T01:47:29Z</time>
+		<name><![CDATA[Información (13.5m)]]></name>
+		<sat>17</sat>
+	</wpt>
+	<wpt lat="9.987622643820941" lon="-83.13247019425035">
+		<ele>60.0</ele>
+		<time>2025-02-07T01:47:29Z</time>
+		<name><![CDATA[Castillo (13.5m)]]></name>
+		<sat>17</sat>
+	</wpt>
+	<trk>
+		<name><![CDATA[Trazado con OSMTracker para Android™]]></name>
+		<trkseg>
+			<trkpt lat="9.98759251087904" lon="-83.13236391171813">
+				<ele>102.0</ele>
+				<time>2025-02-07T01:47:24Z</time>
+				<extensions>
+					<speed>0.28999999165534973</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="9.987612585537136" lon="-83.13248536549509">
+				<ele>80.0</ele>
+				<time>2025-02-07T01:47:25Z</time>
+				<extensions>
+					<speed>0.5799999833106995</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="9.98760789167136" lon="-83.13252509571612">
+				<ele>66.0</ele>
+				<time>2025-02-07T01:47:26Z</time>
+				<extensions>
+					<speed>0.7400000095367432</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="9.987603072077036" lon="-83.13248938880861">
+				<ele>60.0</ele>
+				<time>2025-02-07T01:47:27Z</time>
+				<extensions>
+					<speed>0.5399999618530273</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="9.987603072077036" lon="-83.13248938880861">
+				<ele>60.0</ele>
+				<time>2025-02-07T01:47:27Z</time>
+				<extensions>
+					<speed>0.5399999618530273</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="9.987603072077036" lon="-83.13248938880861">
+				<ele>60.0</ele>
+				<time>2025-02-07T01:47:27Z</time>
+				<extensions>
+					<speed>0.5399999618530273</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="9.987597246654332" lon="-83.13249483704567">
+				<ele>62.0</ele>
+				<time>2025-02-07T01:47:28Z</time>
+				<extensions>
+					<speed>0.29999998211860657</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="9.987597246654332" lon="-83.13249483704567">
+				<ele>62.0</ele>
+				<time>2025-02-07T01:47:28Z</time>
+				<extensions>
+					<speed>0.29999998211860657</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="9.987622643820941" lon="-83.13247019425035">
+				<ele>60.0</ele>
+				<time>2025-02-07T01:47:29Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="9.987622643820941" lon="-83.13247019425035">
+				<ele>60.0</ele>
+				<time>2025-02-07T01:47:29Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="9.987622643820941" lon="-83.13247019425035">
+				<ele>60.0</ele>
+				<time>2025-02-07T01:47:29Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+			<trkpt lat="9.987622643820941" lon="-83.13247019425035">
+				<ele>60.0</ele>
+				<time>2025-02-07T01:47:30Z</time>
+				<extensions>
+					<speed>0.0</speed>
+				</extensions>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>
